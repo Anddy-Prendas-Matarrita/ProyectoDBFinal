@@ -1,0 +1,22 @@
+PROYECTO FINAL - ADMINISTRACION DE B.D. - II CICLO 2026 - Anddy Prendas Matarrita
+Sistema de Punto de Venta (Suministros de Oficina) - Oracle 21c - esquema SUM_ADMIN
+
+Avance1/
+  01_script_completo.sql          Crea tablespaces, usuario SUM_ADMIN y todo el Avance 1
+  02b_modelo_relacional.drawio    Modelo relacional del Avance 1 (editable)
+  03_diccionario_de_datos.pdf     Diccionario de datos del Avance 1
+  04_documentacion_tecnica.docx   Documentacion tecnica del Avance 1
+
+Avance2/scripts/  (ORDEN UNICO; 16_instalar_todo.sql los ejecuta en este orden)
+  01 -> 00 -> 05 -> 06 -> 07 -> 08 -> 10 -> 11 -> 12 -> 14
+  09 y 15 = pruebas funcionales | 13 = EXPLAIN PLAN | 16 = instalador maestro
+Avance2/documentacion/
+  02c / 02d  Modelo relacional completo (Avance 1 + Entregable 2): .drawio editable y PDF
+  03b        Diccionario de datos completo (Avance 1 + Entregable 2)
+  04b        Manual de instalacion y despliegue - seccion de negocio (Parte A)
+  04c        Manual tecnico - Parte A
+Avance2/datos_padron/             DISTELEC.txt y PADRON_COMPLETO.txt (muestra de 7 personas)
+Enunciados/                       Enunciados y division de tareas
+
+PENDIENTE (Parte B, companero): paquete de correo y cifrado (PKG_CORREO), seguridad, monitoreo,
+Standby, RMAN, manual del Standby y secciones de la Parte B de los manuales.
